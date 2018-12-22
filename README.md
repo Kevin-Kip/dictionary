@@ -1,7 +1,7 @@
 ## Dictionary
 Contains all the words of the English language.
 They exist in the form:
-```
+```javascript
 [
   {
     "word": "Word",
